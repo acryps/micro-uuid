@@ -1,0 +1,6 @@
+{
+	"name": "@acryps/mini-uuid",
+	"description": "Converts UUIDs into a shortened URL-encodeable form",
+	"version": "1.0.0",
+	"type": "module"
+}
